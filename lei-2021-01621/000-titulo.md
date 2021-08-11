@@ -1,0 +1,2 @@
+# Lei Ordinária nº 1.621, de 10 de agosto de 2021 "Dispõe sobre a criação do Conselho Municipal de Acompanhamento e Controle Social do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - CACS/ FUNDEB."
+AUTOR : Prefeito Municipal A CÂMARA MUNICIPAL DE BELFORD ROXO, Estado do Rio de Janeiro, aprovou e eu, Marcelo Correia da Silva, Prefeito em Exercício, usando das atribuições que me são conferidas por Lei, sanciono e promulgo a seguinte L E I
