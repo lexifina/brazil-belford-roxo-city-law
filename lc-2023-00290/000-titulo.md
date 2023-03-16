@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR N.º 290 DE 10 DE MARÇO DE 2023 "ALTERA DISPOSITIVOS DA LEI COMPLEMENTAR Nº 280, DE 30 DE MARÇO DE 2022, QUE TRATA DA REVISÃO DO PLANO DIRETOR DO MUNICÍPIO DE BELFORD ROXO, E DÁ OUTRAS PROVIDÊNCIAS."
+Autor: Prefeito Municipal A CÂMARA MUNICIPAL DE BELFORD ROXO, Estado do Rio de Janeiro, aprovou e eu, Wagner dos Santos Carneiro, Prefeito Municipal, usando das atribuições que me são conferidas por Lei, sanciono e promulgo a seguinte Lei.
