@@ -1,0 +1,19 @@
+{
+ "country": "BR-RJ-BELFORD-ROXO",
+ "acts": [
+  {
+   "slug": "lei-2023-01648",
+   "short": "Lei 1648/2023",
+   "title": "Lei nº 1.648, de 31 de julho de 2023",
+   "url": "https://sapl.belfordroxo.rj.leg.br/norma/276",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 4,
+     "source_url": "https://sapl.belfordroxo.rj.leg.br/media/sapl/public/normajuridica/2023/276/lei_municipal_1648_2023_0000001.pdf",
+     "sha256": "7df058aaffb6bba504c9c1457939850d71c042dd938874cfc08ee3aaf570e415"
+    }
+   ]
+  }
+ ]
+}
