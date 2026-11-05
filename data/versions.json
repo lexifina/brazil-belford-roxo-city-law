@@ -14,6 +14,62 @@
      "sha256": "7df058aaffb6bba504c9c1457939850d71c042dd938874cfc08ee3aaf570e415"
     }
    ]
+  },
+  {
+   "slug": "lei-2023-01639",
+   "short": "Lei 1639/2023",
+   "title": "Lei nº 1.639, de 31 de março de 2023",
+   "url": "https://sapl.belfordroxo.rj.leg.br/norma/298",
+   "versions": [
+    {
+     "from": "2023-04-04",
+     "units": 4,
+     "source_url": "https://sapl.belfordroxo.rj.leg.br/media/sapl/public/normajuridica/2023/298/lei_municipal_1639_2023_0000001.pdf",
+     "sha256": "3c796859eb2ae6282bbe9e4bdaa0b4c4483d65b0fea48e1b10e074a26d3bf84d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-00290",
+   "short": "LC 290/2023",
+   "title": "Lei Complementar nº 290, de 10 de março de 2023",
+   "url": "https://sapl.belfordroxo.rj.leg.br/norma/302",
+   "versions": [
+    {
+     "from": "2023-03-16",
+     "units": 6,
+     "source_url": "https://sapl.belfordroxo.rj.leg.br/media/sapl/public/normajuridica/2023/302/lc_290_2023_10-03-23.pdf",
+     "sha256": "70b2cca35beeb537b4360767f2274b4344e761501ccdce0c3006d2ac1f7d994d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-00282",
+   "short": "LC 282/2022",
+   "title": "Lei Complementar nº 282, de 25 de maio de 2022",
+   "url": "https://sapl.belfordroxo.rj.leg.br/norma/213",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 3,
+     "source_url": "https://sapl.belfordroxo.rj.leg.br/media/sapl/public/normajuridica/2022/213/lc_282_25-05-2022_-_divida_previdenciaria.pdf",
+     "sha256": "8c4fbf9a12244d16ad722a6005f6ac6b860fda6d7271ac084ca8cc24c8c4e271"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-01621",
+   "short": "Lei 1621/2021",
+   "title": "Lei nº 1.621, de 10 de agosto de 2021",
+   "url": "https://sapl.belfordroxo.rj.leg.br/norma/214",
+   "versions": [
+    {
+     "from": "2021-08-11",
+     "units": 17,
+     "source_url": "https://sapl.belfordroxo.rj.leg.br/media/sapl/public/normajuridica/2021/214/lei_ordinaria_no_1621.pdf",
+     "sha256": "bee3090bb71c5f7ddd293d0193877546a75dd81a90a4d4a3f74b0a8393fd7416"
+    }
+   ]
   }
  ]
 }
